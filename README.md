@@ -13,22 +13,32 @@ She can now easily look at a chart and compare the outcomes of different project
 
 Louise should consider launching her play in May, because it is the month that has seen the highest number of successful launches.
 
+![Theater Outcomes vs. Launch Date table](Theater_Outcomes_Pivot_Table.PNG)
+
+![Theater Outcomes vs. Launch](Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 
 I would advise Louise to keep her goal low, as the highest success rates are for plays who goal was under 4999.  
 
+![Outcomes Based on Goals](Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 There were far fewer big-budget plays included in the analysis, than there were big-budget plays.  I feel more confident in the conclusions drawn about small-budget plays, because there were hundreds more to include in the analysis.
+
+![Outcomes vs. Goals table](Outcomes_Based_on_Goals_table.PNG)
 
 I had some difficulties with the syntax for the Outcomes Based on Goals cells, but I learned by looking up tips and by trial and error.  Being persistent got me through this challenging part of the project.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 A December launch date should be avoided. A May launch date is ideal.
 
 - What can you conclude about the Outcomes based on Goals?
+
 It appears that cancelation is unlikely, regardless of the goal amount.  Plays with low goals are more likely to be successful.
 
 - What are some limitations of this dataset?
